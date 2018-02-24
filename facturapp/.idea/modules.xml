@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/facturapp.iml" filepath="$PROJECT_DIR$/facturapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facturapp-grailsPlugins.iml" filepath="$PROJECT_DIR$/facturapp-grailsPlugins.iml" />
     </modules>
   </component>
 </project>

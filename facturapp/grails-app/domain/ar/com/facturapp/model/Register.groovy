@@ -5,7 +5,7 @@ class Register {
     Long billNumber
     Date date
     Double price
-    String category
+    String destiny
 
     static mapping = {
         id generator: 'increment'
